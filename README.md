@@ -1,1 +1,1 @@
-# SAPwebide
+# SAPwebide for [openSAP](http://opensap.com)
